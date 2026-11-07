@@ -6,7 +6,7 @@
 // forma. Quem protege os dados são as regras do banco (Row Level Security),
 // não o segredo desta chave. NUNCA coloque aqui a "service_role key".
 // =====================================================================
-export const SUPABASE_URL = 'https://hhkpfbzqgvylwfncsypw.supabase.co/rest/v1/';
+export const SUPABASE_URL = 'https://hkpfbzqgvylwfncsypw.supabase.co';
 export const SUPABASE_ANON_KEY = 'sb_publishable_e6CITg3xlc2AadII_3JJWg_S8Z5MAlu';
 
 // Nome exibido no topo das telas
