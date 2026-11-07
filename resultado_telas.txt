@@ -1,0 +1,45 @@
+ok - Tela de login sem sessão
+ok - Painel do gabinete carrega para o admin
+ok - Selo DEMONSTRAÇÃO aparece no plano demo
+ok - Demanda criada aparece no Kanban
+ok - Texto com HTML é exibido como texto (sem XSS)
+ok - Cartão com prazo vencido fica destacado
+ok - Botão move cartão para Em Andamento
+ok - Arrastar e soltar move para Concluído
+ok - Histórico mostra as mudanças de status com autor
+ok - Ofício de resposta traz o encaminhamento da demanda
+ok - Número oficial gerado pelo servidor (1/2026/GAB-DEMO)
+ok - Código de verificação no rodapé
+ok - QR Code gerado no rodapé
+ok - PDF assinado registrado com hash
+ok - Após PDF assinado, não há opção de substituir
+ok - Verificação pública confirma documento autêntico
+ok - Verificação pública não expõe dados pessoais
+ok - Arquivo original confere com o hash registrado
+ok - Arquivo alterado é detectado
+ok - Código falso é recusado
+ok - Progresso calculado (3 de 12 = 25%)
+ok - KR com prazo curto e progresso < 50% sinalizado em risco
+ok - Emenda com checklist completo = Elegível (calculado no servidor)
+ok - Valor em moeda interpretado corretamente
+ok - Checklist em documento traz a situação
+ok - Assistente bloqueia avanço com campos vazios
+ok - Projeto salvo após as 5 etapas
+ok - Plano de trabalho com seções e metas
+ok - Pauta criada
+ok - Pauta arrastada para um dia do calendário
+ok - Roteiro de fala com a mensagem-chave
+ok - Alerta de edital com prazo < 7 dias
+ok - Pedido vencido vira "Cobrar resposta"
+ok - Ofício de cobrança com prazo calculado
+ok - Ofícios compartilham numeração (2º ofício = 2/2026)
+ok - Lista de documentos com situação do PDF
+ok - Membro incluído (e-mail em minúsculas)
+ok - Integridade da trilha conferida pela tela
+ok - Exportação completa em JSON
+ok - Perfil leitura não vê botões de gravação
+ok - Perfil leitura não vê Administração
+ok - E-mail sem cadastro recebe "Acesso não liberado"
+ok - Sem gabinete, telas internas voltam ao início
+ok - Plataforma cria gabinete com primeiro admin
+ok - Novo gabinete NÃO vê as demandas do gabinete Demonstração
